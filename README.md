@@ -17,3 +17,8 @@ calculating the distance between each coordinate points on our hands. With an ac
 by pressing a key on the keyboard since we created a save key in our program. With hundreds and hundreds of saved images in a folder corresponding to the
 sign we were showing in the camera, we uploaded the images to Google's Teachable Machine, so we could easily train our AI to translate these images of the
 ASL sign to the correct word or phrase in English. Thus, when we ran our program, our AI was able to translate ASL to English text in real time video feed.
+
+
+## Demo
+[ASLAIDemo.mp4]https://youtu.be/0jGPZBl1Vj4
+
