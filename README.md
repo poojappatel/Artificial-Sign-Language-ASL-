@@ -20,5 +20,7 @@ ASL sign to the correct word or phrase in English. Thus, when we ran our program
 
 
 ## Demo
-[ASLAIDemo.mp4]https://youtu.be/0jGPZBl1Vj4
+
+https://user-images.githubusercontent.com/114703081/236526471-d1f0bb56-cbdf-4bdf-98f2-f163dc0794d8.mp4
+
 
